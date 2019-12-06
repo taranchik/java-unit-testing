@@ -1,12 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectId" id="1T3Nq90Hqc31c6y7lR1w8hJI68d" />
-  <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+  <component name="ChangeListManager">
+    <list default="true" id="80d96988-4eeb-42f0-9da2-07e9a5a74e20" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/currencymanager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/CurrencyManagerTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/uom/currencymanager/CurrencyManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/uom/currencymanager/CurrencyManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/uom/currencymanager/currencies/Currency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/uom/currencymanager/currencies/Currency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/uom/currencymanager/currencies/CurrencyDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/uom/currencymanager/currencies/CurrencyDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/uom/currencymanager/currencies/ExchangeRate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/uom/currencymanager/currencies/ExchangeRate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/uom/currencymanager/currencies/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/uom/currencymanager/currencies/Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/uom/currencymanager/currencyserver/CurrencyServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/uom/currencymanager/currencyserver/CurrencyServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/uom/currencymanager/currencyserver/DefaultCurrencyServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/uom/currencymanager/currencyserver/DefaultCurrencyServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/currencies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/currencies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/currencies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/currencies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/uom/currencymanager/CurrencyManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/uom/currencymanager/CurrencyManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/uom/currencymanager/currencies/Currency.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/uom/currencymanager/currencies/Currency.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/uom/currencymanager/currencies/CurrencyDatabase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/uom/currencymanager/currencies/CurrencyDatabase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/uom/currencymanager/currencies/ExchangeRate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/uom/currencymanager/currencies/ExchangeRate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/uom/currencymanager/currencies/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/uom/currencymanager/currencies/Util.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/uom/currencymanager/currencyserver/CurrencyServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/uom/currencymanager/currencyserver/CurrencyServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/uom/currencymanager/currencyserver/DefaultCurrencyServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/uom/currencymanager/currencyserver/DefaultCurrencyServer.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="RunManager">
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="1" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="15" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1T3Nq90Hqc31c6y7lR1w8hJI68d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../lessons/lesson-01/cps3230unittests/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.uom" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CurrencyManagerTests (1)">
     <configuration name="CurrencyManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.uom.currencymanager.CurrencyManager" />
       <module name="currencymanager" />
@@ -20,15 +101,203 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CurrencyManagerTests (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="currencymanager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu" />
+      <option name="MAIN_CLASS_NAME" value="edu.CurrencyManagerTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CurrencyManagerTests.testAddCurrency" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="currencymanager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu" />
+      <option name="MAIN_CLASS_NAME" value="edu.CurrencyManagerTests" />
+      <option name="METHOD_NAME" value="testAddCurrency" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CurrencyManagerTests.testDeleteCurrency" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="currencymanager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu" />
+      <option name="MAIN_CLASS_NAME" value="edu.CurrencyManagerTests" />
+      <option name="METHOD_NAME" value="testDeleteCurrency" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CurrencyManagerTests.testListCurrencies" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="currencymanager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu" />
+      <option name="MAIN_CLASS_NAME" value="edu.CurrencyManagerTests" />
+      <option name="METHOD_NAME" value="testListCurrencies" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CurrencyManagerTests (1)" />
+        <item itemvalue="JUnit.CurrencyManagerTests.testListCurrencies" />
+        <item itemvalue="JUnit.CurrencyManagerTests.testDeleteCurrency" />
+        <item itemvalue="JUnit.CurrencyManagerTests.testAddCurrency" />
         <item itemvalue="Application.CurrencyManager" />
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80d96988-4eeb-42f0-9da2-07e9a5a74e20" name="Default Changelist" comment="" />
+      <created>1572685006687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572685006687</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="416" y="156" width="524" height="486" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1575123294404">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="416" y="156" width="524" height="486" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.28.1366.740@0.28.1366.740" timestamp="1575123294404" />
+    <state x="100" y="128" width="1166" height="540" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1575621644706">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="100" y="128" width="1166" height="540" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.28.1366.740@0.28.1366.740" timestamp="1575621644706" />
+    <state x="366" y="126" width="624" height="546" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575619944001">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="366" y="126" width="624" height="546" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.28.1366.740@0.28.1366.740" timestamp="1575619944001" />
+    <state x="466" y="156" width="424" height="486" key="FileChooserDialogImpl" timestamp="1575621187261">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="466" y="156" width="424" height="486" key="FileChooserDialogImpl/0.28.1366.740@0.28.1366.740" timestamp="1575621187261" />
+    <state width="1320" height="155" key="GridCell.Tab.0.bottom" timestamp="1575622248272">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1320" height="155" key="GridCell.Tab.0.bottom/0.28.1366.740@0.28.1366.740" timestamp="1575622248272" />
+    <state width="1320" height="155" key="GridCell.Tab.0.center" timestamp="1575622248271">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1320" height="155" key="GridCell.Tab.0.center/0.28.1366.740@0.28.1366.740" timestamp="1575622248271" />
+    <state width="1320" height="155" key="GridCell.Tab.0.left" timestamp="1575622248270">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1320" height="155" key="GridCell.Tab.0.left/0.28.1366.740@0.28.1366.740" timestamp="1575622248270" />
+    <state width="1320" height="155" key="GridCell.Tab.0.right" timestamp="1575622248271">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1320" height="155" key="GridCell.Tab.0.right/0.28.1366.740@0.28.1366.740" timestamp="1575622248271" />
+    <state width="1320" height="217" key="GridCell.Tab.1.bottom" timestamp="1575125191073">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1320" height="217" key="GridCell.Tab.1.bottom/0.28.1366.740@0.28.1366.740" timestamp="1575125191073" />
+    <state width="1320" height="217" key="GridCell.Tab.1.center" timestamp="1575125191072">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1320" height="217" key="GridCell.Tab.1.center/0.28.1366.740@0.28.1366.740" timestamp="1575125191072" />
+    <state width="1320" height="217" key="GridCell.Tab.1.left" timestamp="1575125191072">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1320" height="217" key="GridCell.Tab.1.left/0.28.1366.740@0.28.1366.740" timestamp="1575125191072" />
+    <state width="1320" height="217" key="GridCell.Tab.1.right" timestamp="1575125191072">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1320" height="217" key="GridCell.Tab.1.right/0.28.1366.740@0.28.1366.740" timestamp="1575125191072" />
+    <state x="166" y="28" width="1024" height="740" key="SettingsEditor" timestamp="1575120766677">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="166" y="28" width="1024" height="740" key="SettingsEditor/0.28.1366.740@0.28.1366.740" timestamp="1575120766677" />
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1575619995999">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.28.1366.740@0.28.1366.740" timestamp="1575619995999" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/uom/currencymanager/currencies/CurrencyDatabase.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/uom/currencymanager/currencies/CurrencyDatabase.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/currencymanager$CurrencyManager.ic" NAME="CurrencyManager Coverage Results" MODIFIED="1572685127145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/currencymanager$CurrencyManager.ic" NAME="CurrencyManager Coverage Results" MODIFIED="1575125562211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>edu.uom.currencymanager.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/currencymanager$CurrencyManagerTests.ic" NAME="CurrencyManagerTests Coverage Results" MODIFIED="1572712209194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.uom.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/currencymanager$CurrencyManagerTests__1_.ic" NAME="CurrencyManagerTests (1) Coverage Results" MODIFIED="1575620117358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.*</FILTER>
     </SUITE>
   </component>
 </project>
