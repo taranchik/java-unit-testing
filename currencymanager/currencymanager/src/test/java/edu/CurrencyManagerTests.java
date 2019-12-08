@@ -62,7 +62,7 @@ public class CurrencyManagerTests {
 
         //Exercise
         for (ExchangeRate temp : exchangeRates) {
-//            System.out.println(temp.rate);
+//            System.out.println(temp.toString());
             if(temp.rate < 0.0 || temp.rate > 1.5)
                 switcher = false;
         }
@@ -109,5 +109,50 @@ public class CurrencyManagerTests {
         } catch (Exception e) {
             System.err.println(e.getMessage());
         }
+    }
+
+    @Test
+    public void testQuitFromList() throws Exception {
+        //Exercise
+        try {
+            CurrencyManager.exit = true;
+        } catch (Exception e) {
+            System.err.println(e.getMessage());
+        }
+    }
+
+    @Test
+    public void testGetCurrencyByCode(){
+        //Setup
+        Currency currency = null;
+
+        //Exercise
+        try {
+            currency = currencyDatabase.getCurrencyByCode("EUR");
+        } catch (Exception e) {
+            System.err.println(e.getMessage());
+        }
+
+        //Verify
+        assertEquals(currency.toString(), "EUR - Euro");
+    }
+
+    @Test
+    public void testGetMajorCurrencies(){
+        //Setup
+        List<Currency> majorCurrencies = new ArrayList<Currency>();
+
+        //Exercise
+        try {
+            majorCurrencies = currencyDatabase.getMajorCurrencies();
+        } catch (Exception e) {
+            System.err.println(e.getMessage());
+        }
+
+        //Verify
+        assertEquals(majorCurrencies.toString(), "[EUR - Euro, " +
+                                                        "GBP - British Pound, " +
+                                                        "USD - US Dollar, " +
+                                                        "RUB - Russian Ruble]");
     }
 }

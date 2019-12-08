@@ -2,35 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80d96988-4eeb-42f0-9da2-07e9a5a74e20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/currencymanager.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/CurrencyManagerTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/uom/currencymanager/CurrencyManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/uom/currencymanager/CurrencyManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/uom/currencymanager/currencies/Currency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/uom/currencymanager/currencies/Currency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/uom/currencymanager/currencies/CurrencyDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/uom/currencymanager/currencies/CurrencyDatabase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/uom/currencymanager/currencies/ExchangeRate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/uom/currencymanager/currencies/ExchangeRate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/uom/currencymanager/currencies/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/uom/currencymanager/currencies/Util.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/uom/currencymanager/currencyserver/CurrencyServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/uom/currencymanager/currencyserver/CurrencyServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/uom/currencymanager/currencyserver/DefaultCurrencyServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/uom/currencymanager/currencyserver/DefaultCurrencyServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/currencies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/currencies.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/currencies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/currencies.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/uom/currencymanager/CurrencyManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/uom/currencymanager/CurrencyManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/uom/currencymanager/currencies/Currency.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/uom/currencymanager/currencies/Currency.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/uom/currencymanager/currencies/CurrencyDatabase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/uom/currencymanager/currencies/CurrencyDatabase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/uom/currencymanager/currencies/ExchangeRate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/uom/currencymanager/currencies/ExchangeRate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/uom/currencymanager/currencies/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/uom/currencymanager/currencies/Util.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/uom/currencymanager/currencyserver/CurrencyServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/uom/currencymanager/currencyserver/CurrencyServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/uom/currencymanager/currencyserver/DefaultCurrencyServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/uom/currencymanager/currencyserver/DefaultCurrencyServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/edu/CurrencyManagerTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/CurrencyManagerTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,10 +194,10 @@
       <screen x="0" y="28" width="1366" height="740" />
     </state>
     <state x="416" y="156" width="524" height="486" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.28.1366.740@0.28.1366.740" timestamp="1575123294404" />
-    <state x="100" y="128" width="1166" height="540" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1575621644706">
+    <state x="100" y="128" width="1166" height="540" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1575801807009">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state x="100" y="128" width="1166" height="540" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.28.1366.740@0.28.1366.740" timestamp="1575621644706" />
+    <state x="100" y="128" width="1166" height="540" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.28.1366.740@0.28.1366.740" timestamp="1575801807009" />
     <state x="366" y="126" width="624" height="546" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575619944001">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
@@ -232,22 +206,22 @@
       <screen x="0" y="28" width="1366" height="740" />
     </state>
     <state x="466" y="156" width="424" height="486" key="FileChooserDialogImpl/0.28.1366.740@0.28.1366.740" timestamp="1575621187261" />
-    <state width="1320" height="155" key="GridCell.Tab.0.bottom" timestamp="1575622248272">
+    <state width="1320" height="155" key="GridCell.Tab.0.bottom" timestamp="1575801944864">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state width="1320" height="155" key="GridCell.Tab.0.bottom/0.28.1366.740@0.28.1366.740" timestamp="1575622248272" />
-    <state width="1320" height="155" key="GridCell.Tab.0.center" timestamp="1575622248271">
+    <state width="1320" height="155" key="GridCell.Tab.0.bottom/0.28.1366.740@0.28.1366.740" timestamp="1575801944864" />
+    <state width="1320" height="155" key="GridCell.Tab.0.center" timestamp="1575801944864">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state width="1320" height="155" key="GridCell.Tab.0.center/0.28.1366.740@0.28.1366.740" timestamp="1575622248271" />
-    <state width="1320" height="155" key="GridCell.Tab.0.left" timestamp="1575622248270">
+    <state width="1320" height="155" key="GridCell.Tab.0.center/0.28.1366.740@0.28.1366.740" timestamp="1575801944864" />
+    <state width="1320" height="155" key="GridCell.Tab.0.left" timestamp="1575801944863">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state width="1320" height="155" key="GridCell.Tab.0.left/0.28.1366.740@0.28.1366.740" timestamp="1575622248270" />
-    <state width="1320" height="155" key="GridCell.Tab.0.right" timestamp="1575622248271">
+    <state width="1320" height="155" key="GridCell.Tab.0.left/0.28.1366.740@0.28.1366.740" timestamp="1575801944863" />
+    <state width="1320" height="155" key="GridCell.Tab.0.right" timestamp="1575801944864">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state width="1320" height="155" key="GridCell.Tab.0.right/0.28.1366.740@0.28.1366.740" timestamp="1575622248271" />
+    <state width="1320" height="155" key="GridCell.Tab.0.right/0.28.1366.740@0.28.1366.740" timestamp="1575801944864" />
     <state width="1320" height="217" key="GridCell.Tab.1.bottom" timestamp="1575125191073">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
@@ -268,10 +242,10 @@
       <screen x="0" y="28" width="1366" height="740" />
     </state>
     <state x="166" y="28" width="1024" height="740" key="SettingsEditor/0.28.1366.740@0.28.1366.740" timestamp="1575120766677" />
-    <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1575619995999">
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1575799175674">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.28.1366.740@0.28.1366.740" timestamp="1575619995999" />
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.28.1366.740@0.28.1366.740" timestamp="1575799175674" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -280,11 +254,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/edu/uom/currencymanager/currencies/CurrencyDatabase.java</url>
           <line>95</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/edu/uom/currencymanager/currencies/CurrencyDatabase.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

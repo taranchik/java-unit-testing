@@ -10,6 +10,7 @@ import java.util.Scanner;
 
 public class CurrencyManager {
 
+    public static boolean exit = false;
     CurrencyDatabase currencyDatabase;
 
     public CurrencyManager() throws Exception {
@@ -22,7 +23,6 @@ public class CurrencyManager {
 
         Scanner sc = new Scanner(System.in);
 
-        boolean exit = false;
 
         while (!exit) {
             System.out.println("\nMain Menu\n---------\n");
