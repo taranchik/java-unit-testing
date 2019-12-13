@@ -3,7 +3,10 @@ package edu.uom.currencymanager;
 import edu.uom.currencymanager.currencies.Currency;
 import edu.uom.currencymanager.currencies.CurrencyDatabase;
 import edu.uom.currencymanager.currencies.ExchangeRate;
+import edu.uom.currencymanager.currencyfactory.CurrencyFactory;
 
+import java.io.InputStream;
+import java.io.OutputStream;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -12,19 +15,23 @@ public class CurrencyManager {
 
     public static boolean exit = false;
     CurrencyDatabase currencyDatabase;
+    static CurrencyFactory currencyFactory = new CurrencyFactory();
 
     public CurrencyManager() throws Exception {
-        currencyDatabase = new CurrencyDatabase();
+        this.currencyDatabase = currencyFactory.createCurrencyDatabase();
+    }
+
+    public CurrencyManager(CurrencyDatabase currencyDatabase) {
+        this.currencyDatabase = currencyDatabase;
     }
 
     public static void main(String[] args) throws Exception {
 
-        CurrencyManager manager = new CurrencyManager();
+        CurrencyManager manager = currencyFactory.createCurrencyManager();
 
         Scanner sc = new Scanner(System.in);
 
-
-        while (!exit) {
+        while (!manager.exit) {
             System.out.println("\nMain Menu\n---------\n");
 
             System.out.println("1. List currencies");
@@ -40,7 +47,7 @@ public class CurrencyManager {
 
             switch (choice) {
                 case 0:
-                    exit = true;
+                    manager.exit = true;
                     break;
                 case 1:
                     List<Currency> currencies = manager.currencyDatabase.getCurrencies();

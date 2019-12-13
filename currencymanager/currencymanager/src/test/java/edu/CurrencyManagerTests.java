@@ -6,6 +6,7 @@ import edu.uom.currencymanager.currencies.Currency;
 import edu.uom.currencymanager.currencies.CurrencyDatabase;
 
 import edu.uom.currencymanager.currencies.ExchangeRate;
+import edu.uom.currencymanager.currencyfactory.CurrencyFactory;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
@@ -16,17 +17,19 @@ import static org.junit.Assert.*;
 
 public class CurrencyManagerTests {
 
+    CurrencyFactory currencyFactory = new CurrencyFactory();
     CurrencyManager manager;
     CurrencyDatabase currencyDatabase;
 
     @Before
     public void setup() throws Exception {
-        manager = new CurrencyManager();
-        currencyDatabase = new CurrencyDatabase();
+        manager = currencyFactory.createCurrencyManager();
+        currencyDatabase = currencyFactory.createCurrencyDatabase();
     }
 
     @After
     public void teardown() {
+        currencyFactory = null;
         manager = null;
         currencyDatabase = null;
     }
@@ -57,7 +60,7 @@ public class CurrencyManagerTests {
     @Test
     public void testListExchangeRatesBetweenMajorCurrencies() throws Exception {
         //Setup
-        List<ExchangeRate> exchangeRates = new CurrencyManager().getMajorCurrencyRates();
+        List<ExchangeRate> exchangeRates = new CurrencyManager(new CurrencyDatabase()).getMajorCurrencyRates();
         boolean switcher = true;
 
         //Exercise
@@ -113,6 +116,8 @@ public class CurrencyManagerTests {
 
     @Test
     public void testQuitFromList() throws Exception {
+        //Setup
+
         //Exercise
         try {
             CurrencyManager.exit = true;

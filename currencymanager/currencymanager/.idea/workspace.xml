@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80d96988-4eeb-42f0-9da2-07e9a5a74e20" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/uom/currencymanager/currencyfactory/CurrencyFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/uom/currencymanager/CurrencyManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/uom/currencymanager/CurrencyManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/edu/CurrencyManagerTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/CurrencyManagerTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/uom/currencymanager/CurrencyManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/uom/currencymanager/CurrencyManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/edu/CurrencyManagerTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/edu/CurrencyManagerTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +53,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../lessons/lesson-01/cps3230unittests/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../../../../Downloads/webtesting/webtesting/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -190,10 +193,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="416" y="156" width="524" height="486" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1575123294404">
+    <state x="416" y="156" width="524" height="486" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1576227341713">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state x="416" y="156" width="524" height="486" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.28.1366.740@0.28.1366.740" timestamp="1575123294404" />
+    <state x="416" y="156" width="524" height="486" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.28.1366.740@0.28.1366.740" timestamp="1576227341713" />
     <state x="100" y="128" width="1166" height="540" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1575801807009">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
@@ -202,26 +205,26 @@
       <screen x="0" y="28" width="1366" height="740" />
     </state>
     <state x="366" y="126" width="624" height="546" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.28.1366.740@0.28.1366.740" timestamp="1575619944001" />
-    <state x="466" y="156" width="424" height="486" key="FileChooserDialogImpl" timestamp="1575621187261">
+    <state x="466" y="156" width="424" height="486" key="FileChooserDialogImpl" timestamp="1575817432396">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state x="466" y="156" width="424" height="486" key="FileChooserDialogImpl/0.28.1366.740@0.28.1366.740" timestamp="1575621187261" />
-    <state width="1320" height="155" key="GridCell.Tab.0.bottom" timestamp="1575801944864">
+    <state x="466" y="156" width="424" height="486" key="FileChooserDialogImpl/0.28.1366.740@0.28.1366.740" timestamp="1575817432396" />
+    <state width="1320" height="197" key="GridCell.Tab.0.bottom" timestamp="1576245460152">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state width="1320" height="155" key="GridCell.Tab.0.bottom/0.28.1366.740@0.28.1366.740" timestamp="1575801944864" />
-    <state width="1320" height="155" key="GridCell.Tab.0.center" timestamp="1575801944864">
+    <state width="1320" height="197" key="GridCell.Tab.0.bottom/0.28.1366.740@0.28.1366.740" timestamp="1576245460152" />
+    <state width="1320" height="197" key="GridCell.Tab.0.center" timestamp="1576245460151">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state width="1320" height="155" key="GridCell.Tab.0.center/0.28.1366.740@0.28.1366.740" timestamp="1575801944864" />
-    <state width="1320" height="155" key="GridCell.Tab.0.left" timestamp="1575801944863">
+    <state width="1320" height="197" key="GridCell.Tab.0.center/0.28.1366.740@0.28.1366.740" timestamp="1576245460151" />
+    <state width="1320" height="197" key="GridCell.Tab.0.left" timestamp="1576245460151">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state width="1320" height="155" key="GridCell.Tab.0.left/0.28.1366.740@0.28.1366.740" timestamp="1575801944863" />
-    <state width="1320" height="155" key="GridCell.Tab.0.right" timestamp="1575801944864">
+    <state width="1320" height="197" key="GridCell.Tab.0.left/0.28.1366.740@0.28.1366.740" timestamp="1576245460151" />
+    <state width="1320" height="197" key="GridCell.Tab.0.right" timestamp="1576245460151">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state width="1320" height="155" key="GridCell.Tab.0.right/0.28.1366.740@0.28.1366.740" timestamp="1575801944864" />
+    <state width="1320" height="197" key="GridCell.Tab.0.right/0.28.1366.740@0.28.1366.740" timestamp="1576245460151" />
     <state width="1320" height="217" key="GridCell.Tab.1.bottom" timestamp="1575125191073">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
@@ -242,21 +245,14 @@
       <screen x="0" y="28" width="1366" height="740" />
     </state>
     <state x="166" y="28" width="1024" height="740" key="SettingsEditor/0.28.1366.740@0.28.1366.740" timestamp="1575120766677" />
-    <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1575799175674">
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1576243356149">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.28.1366.740@0.28.1366.740" timestamp="1575799175674" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/edu/uom/currencymanager/currencies/CurrencyDatabase.java</url>
-          <line>95</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.28.1366.740@0.28.1366.740" timestamp="1576243356149" />
+    <state x="379" y="28" width="598" height="740" key="refactoring.ChangeSignatureDialog" timestamp="1576244585369">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="379" y="28" width="598" height="740" key="refactoring.ChangeSignatureDialog/0.28.1366.740@0.28.1366.740" timestamp="1576244585369" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/currencymanager$CurrencyManager.ic" NAME="CurrencyManager Coverage Results" MODIFIED="1575125562211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -265,7 +261,7 @@
     <SUITE FILE_PATH="coverage/currencymanager$CurrencyManagerTests.ic" NAME="CurrencyManagerTests Coverage Results" MODIFIED="1572712209194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>edu.uom.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/currencymanager$CurrencyManagerTests__1_.ic" NAME="CurrencyManagerTests (1) Coverage Results" MODIFIED="1575620117358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/currencymanager$CurrencyManagerTests__1_.ic" NAME="CurrencyManagerTests (1) Coverage Results" MODIFIED="1576230159111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>edu.*</FILTER>
     </SUITE>
   </component>
